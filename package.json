@@ -18,6 +18,10 @@
       {
         "command": "minsol-first-extension.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "minsol-first-extension.test",
+        "title": "Test"
       }
     ]
   },
